@@ -5,7 +5,7 @@
             <router-link to="/">图书信息</router-link> |
             <router-link to="/logout">退出登录</router-link>
         </nav>
-        <nav v-if="!checkLogin()">//测试啦啦啦啦
+        <nav v-if="!checkLogin()">
             <router-link to="/login">登录</router-link> |
             <router-link to="/register">注册</router-link>
         </nav>
