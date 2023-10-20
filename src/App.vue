@@ -2,7 +2,7 @@
     <div id="app">
         <div class="img" />
         <nav v-if="checkLogin()">
-            <router-link to="/">图书信息</router-link> |
+            <router-link to="/">图书信息测试测试</router-link> |
             <router-link to="/logout">退出登录</router-link>
         </nav>
         <nav v-if="!checkLogin()">
