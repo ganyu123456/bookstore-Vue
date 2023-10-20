@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\BookStoreAbpProject-master\BookStoreAbpProject-master\bookstore\obj\Debug\bootstore.esproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\BookStoreAbpProject-master\BookStoreAbpProject-master\bookstore\obj\Debug\bootstore.esproj.CoreCompileInputs.cache
